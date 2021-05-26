@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajrishik
+- 👋 Hi, I’m @rajrishik (RISHIK RAJ)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
